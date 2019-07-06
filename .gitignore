@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.DS_Store
 .sfdc
 .gitattributes
 .ipynb_checkpoints
