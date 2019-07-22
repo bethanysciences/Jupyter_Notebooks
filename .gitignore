@@ -6,6 +6,7 @@ __pycache__/
 .sfdc
 .gitattributes
 .ipynb_checkpoints
+*.code-workspace
 
 
 # C extensions
