@@ -6,7 +6,7 @@ Except for 3rd party content, trademarks, and intellectual property, all content
 
 ## License
 
-© 2019 Robert P. Smith II  
+© 2020 Robert P. Smith II  
 
 Except cited or permitted 3rd party content, trademarks, and intellectual property, all content under Bethany Sciences is licensed as applicable  
 
