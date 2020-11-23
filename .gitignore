@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 .DS_Store
 .sfdc
+.sodapy
 .cdc
 .gitattributes
 .ipynb_checkpoints
